@@ -791,3 +791,16 @@ Parallax
 	}
 	
 }
+.about-desc
+{
+    text-align:justify;
+    font-size:18px;
+    display:block;
+    padding-bottom:25px;
+}
+
+.avatar-desc
+{
+     text-align:justify;
+    font-size:18px;
+}
